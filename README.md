@@ -43,31 +43,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=henryjonathnn&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
-<h2 align="center">📌 Pinned Repositories</h2>
-
-<div align="center">
-  <a href="https://github.com/henryjonathnn/dashboard-rs-daha-husada">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryjonathnn&repo=dashboard-rs-daha-husada&theme=radical" />
-  </a>
-  <a href="https://github.com/henryjonathnn/oss-smk-bhakta">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henryjonathnn&repo=oss-smk-bhakta&theme=radical" />
-  </a>
-</div>
-
-<h2 align="center">🌟 Let's Connect!</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/henry-jonathan-chandra-b531402a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/henryjonathnn/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instafram" />
-  </a>
-  <a href="https://www.youtube.com/@henryjonathnn">
-    <img src="https://img.shields.io/badge/youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
-  </a>
-</p>
-
-<p align="center">
-  Thanks for dropping by! Don't forget to star ⭐ your favorite repos!
-</p>
