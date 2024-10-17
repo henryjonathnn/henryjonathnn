@@ -37,9 +37,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryjonathnn&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<h2 align="center">🏆 Trophy Cabinet</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=henryjonathnn&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
