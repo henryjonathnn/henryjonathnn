@@ -37,5 +37,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryjonathnn&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=henryjonathnn&color=red" alt="hyura" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandhikagalih&color=red" alt="hyura" /> </p>
 
