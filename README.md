@@ -29,9 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=henryjonathnn&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henryjonathnn&theme=radical" alt="GitHub Streak Stats" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryjonathnn&layout=compact&theme=radical" alt="Top Languages" />
