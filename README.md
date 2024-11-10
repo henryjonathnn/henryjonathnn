@@ -26,11 +26,6 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henryjonathnn&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryjonathnn&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
