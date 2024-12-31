@@ -1,4 +1,6 @@
 
+<img src="https://komarev.com/ghpvc/?username=henryjonathnn&color=brightgreen" alt="Profile views" /> </div> 
+
 <h2>👨‍💻 About</h2> 
 
 ```javascript
