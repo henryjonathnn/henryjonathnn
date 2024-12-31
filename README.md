@@ -1,6 +1,6 @@
-<h1 align="center">Hi!</h1>  
+<h1>Hi!</h1>  
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryjonathnn&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
