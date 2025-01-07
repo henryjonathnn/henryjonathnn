@@ -26,11 +26,12 @@ const aboutMe = {
     }
 };
 ```
-
+<--
 <h2>📊 Statistics</h2> 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryjonathnn&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+</div> 
+-->
 
 <h2>⚡ Tech Stack</h2> 
 <p align="center">
