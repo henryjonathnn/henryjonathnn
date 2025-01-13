@@ -22,12 +22,12 @@ const aboutMe = {
             js: ["Node", "Express"],
             php: ["Laravel", "Codeigniter"]
         },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"]
+        databases: ["MySQL", "PostgreSQL"]
     }
 };
 ```
 
 <h2>⚡ Tech Stack</h2> 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,nextjs,php,laravel,git,docker,mongodb,postgres,mysql,tailwind,bootstrap&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,nextjs,php,laravel,git,docker,mysql,postgrees,tailwind,bootstrap,sequelize&perline=7" />
 </p>
