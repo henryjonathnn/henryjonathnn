@@ -26,7 +26,7 @@ const aboutMe = {
     }
 };
 ```
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryjonathnn&layout=compact&langs_count=10&theme=dark)
 <h2>⚡ Tech Stack</h2> 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,nextjs,php,laravel,git,docker,mysql,postgres,tailwind,bootstrap,sequelize&perline=7" />
