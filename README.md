@@ -27,7 +27,9 @@ const aboutMe = {
 };
 ```
 <h2>📊 Stats</h2> 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryjonathnn&layout=compact&langs_count=10&theme=dark" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryjonathnn&layout=compact&langs_count=10&theme=dark" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=henryjonathnn&theme=dark" alt="Coding Streak" />
+</p>
 <h2>⚡ Tech Stack</h2> 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,nextjs,php,laravel,git,docker,mysql,postgres,tailwind,bootstrap,sequelize&perline=7" />
