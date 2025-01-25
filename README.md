@@ -27,7 +27,7 @@ const aboutMe = {
 };
 ```
 <h2>📊 Stats</h2>
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryjonathnn&layout=compact&langs_count=10&theme=dark" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=henryjonathnn&theme=dark" alt="Coding Streak" />
 </div>
