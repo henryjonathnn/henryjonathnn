@@ -22,7 +22,7 @@ const aboutMe = {
             js: ["Node", "Express"],
             php: ["Laravel", "Codeigniter"]
         },
-        databases: ["MySQL", "PostgreSQL"]
+        databases: ["MySQL", "PostgreSQL", "MongoDB"]
     }
 };
 ```
