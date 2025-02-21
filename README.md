@@ -29,8 +29,6 @@ const aboutMe = {
 <h2>📊 Stats</h2>
 <div align="center">
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=henryjonathnn&layout=compact&theme=codeSTACKr" /></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryjonathnn&layout=compact&langs_count=10&theme=dark" alt="Top Languages" />
-    <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=henryjonathnn&theme=dark" alt="Coding Streak" />
 </div>
 
