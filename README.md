@@ -32,6 +32,7 @@ const aboutMe = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=henryjonathnn&theme=dark" alt="Coding Streak" />
 </div>
 
+<h2>⚡ Tech Stack</h2> 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,bun,elysia,nodejs,express,react,nextjs,astro,vue,tailwind,mysql,postgresql,sequelize,docker&perline=7" />
 </p>
