@@ -12,7 +12,7 @@ const aboutMe = {
         role: "Junior Full Stack Developer",
         location: "Kediri, Indonesia"
     },
-    code: ["JavaScript", "PHP", "TypeScript],
+    code: ["JavaScript", "PHP", "TypeScript"],
     technologies: {
         frontEnd: {
             js: ["Qwik", "Astro", "React", "Next"],
