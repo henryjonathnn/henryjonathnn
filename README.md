@@ -12,17 +12,17 @@ const aboutMe = {
         role: "Junior Full Stack Developer",
         location: "Kediri, Indonesia"
     },
-    code: ["JavaScript", "PHP"],
+    code: ["JavaScript", "PHP", "TypeScript],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
+            js: ["Qwik", "Astro", "React", "Next"],
             css: ["Tailwind", "Bootstrap"]
         },
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Bun", "Elysia", "Hono", "Express"],
             php: ["Laravel", "Codeigniter"]
         },
-        databases: ["MySQL", "PostgreSQL", "MongoDB"]
+        databases: ["MySQL", "PostgreSQL", "Firebase"]
     }
 };
 ```
@@ -34,5 +34,5 @@ const aboutMe = {
 
 <h2>⚡ Tech Stack</h2> 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,bun,elysia,nodejs,express,react,nextjs,astro,tailwind,mysql,postgresql,drizzle,sequelize,docker&perline=7" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,bun,elysia,hono,nodejs,express,react,nextjs,astro,tailwind,mysql,postgresql,drizzle,docker&perline=7" />
 </p>
