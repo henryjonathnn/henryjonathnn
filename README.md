@@ -34,5 +34,5 @@ const aboutMe = {
 
 <h2>⚡ Tech Stack</h2> 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,bun,elysia,hono,nodejs,express,react,nextjs,astro,codeigniter,kotlin,flutter,tailwind,mysql,postgresql,firebase,prisma,docker,ubuntu,debian,nginx&perline=7" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,bun,elysia,hono,nodejs,express,react,nextjs,astro,tailwind,mysql,postgresql,prisma,docker&perline=7" />
 </p>
