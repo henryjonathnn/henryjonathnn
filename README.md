@@ -9,7 +9,7 @@ const aboutMe = {
         name: "Henry Jonathan Chandra",
         age: 18,
         education: "SMK TI Pelita Nusantara Kediri",
-        role: "Junior Full Stack Developer",
+        role: "Full Stack Developer",
         location: "Kediri, Indonesia"
     },
     code: ["JavaScript", "PHP", "TypeScript"],
