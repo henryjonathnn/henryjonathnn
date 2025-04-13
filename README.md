@@ -15,7 +15,7 @@ const aboutMe = {
     code: ["JavaScript", "PHP", "TypeScript"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next", "Qwik", "Astro"],
+            js: ["React", "Next", "Qwik", "Astro", "Vue"],
             css: ["Tailwind", "Bootstrap"]
         },
         backEnd: {
