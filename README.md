@@ -22,7 +22,7 @@ const aboutMe = {
             js: ["Node", "Bun", "Elysia", "Hono", "Express"],
             php: ["Laravel", "Codeigniter"]
         },
-        databases: ["MySQL", "PostgreSQL", "Firebase"]
+        databases: ["MySQL", "PostgreSQL", "Supabase", "Firebase"]
     }
 };
 ```
@@ -34,5 +34,5 @@ const aboutMe = {
 
 <h2>⚡ Tech Stack</h2> 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,react,nextjs,typescript,vue,nuxtjs,astro,tailwind,nodejs,express,bun,mysql,postgresql,docker&perline=7" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,react,nextjs,typescript,vue,astro,tailwind,nodejs,express,bun,mysql,supabase,postgresql,docker&perline=7" />
 </p>
