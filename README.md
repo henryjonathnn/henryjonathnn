@@ -10,7 +10,7 @@ const aboutMe = {
         age: 18,
         education: "SMK TI Pelita Nusantara Kediri",
         role: "Full Stack Developer",
-        location: "Kediri, Indonesia"
+        location: "Nganjuk, Indonesia"
     },
     code: ["JavaScript", "PHP", "TypeScript"],
     technologies: {
