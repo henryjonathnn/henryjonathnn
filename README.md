@@ -12,7 +12,7 @@ const aboutMe = {
         role: "Full Stack Developer",
         location: "Nganjuk, Indonesia"
     },
-    code: ["JavaScript", "PHP", "TypeScript"],
+    code: ["JavaScript", "PHP", "TypeScript", "Go"],
     technologies: {
         frontEnd: {
             js: ["React", "Next", "Qwik", "Astro", "Vue"],
@@ -20,7 +20,8 @@ const aboutMe = {
         },
         backEnd: {
             js: ["Node", "Bun", "Elysia", "Hono", "Express"],
-            php: ["Laravel", "Codeigniter"]
+            php: ["Laravel", "Codeigniter"],
+            go: ["GoFiber", "Echo"]
         },
         databases: ["MySQL", "PostgreSQL", "Supabase", "Firebase"]
     }
