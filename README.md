@@ -1,7 +1,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=henryjonathnn&color=brightgreen" alt="Profile views" /> </div> 
-
-<h2>👨‍💻 About</h2> 
+ 
 
 ```javascript
 const aboutMe = {
@@ -27,13 +26,3 @@ const aboutMe = {
     }
 };
 ```
-<h2>📊 Stats</h2>
-<div align="center">
-    <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=henryjonathnn&layout=compact&theme=codeSTACKr" /></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henryjonathnn&theme=dark" alt="Coding Streak" />
-</div>
-
-<h2>⚡ Tech Stack</h2> 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=elysia,hono,go,laravel,typescript,vue,astro,tailwind,nodejs,express,bun,mysql,postgresql,docker&perline=7" />
-</p>
