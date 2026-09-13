@@ -11,7 +11,7 @@ const aboutMe = {
         role: "Full Stack Developer",
         location: "Surabaya, Indonesia"
     },
-    code: ["JavaScript", "PHP", "TypeScript", "Go"],
+    code: ["JavaScript", "PHP", "TypeScript"],
     technologies: {
         frontEnd: {
             js: ["Svelte", "Qwik", "Astro", "Vue"],
@@ -19,10 +19,9 @@ const aboutMe = {
         },
         backEnd: {
             js: ["Node", "Bun", "Elysia", "Hono", "Express"],
-            php: ["Laravel", "Codeigniter"],
-            go: ["GoFiber", "Echo"]
+            php: ["Laravel", "Codeigniter"]
         },
-        databases: ["MySQL", "PostgreSQL", "Supabase", "Firebase"]
+        databases: ["PostgreSQL", "MySQL"]
     }
 };
 ```
