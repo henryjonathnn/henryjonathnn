@@ -8,7 +8,7 @@ const aboutMe = {
         name: "Henry Jonathan Chandra",
         age: 19,
         education: ["Universitas Terbuka", "SMK TI Pelita Nusantara Kediri"],
-        role: "Full Stack Developer",
+        role: "AI Automation Engineer",
         location: "Surabaya, Indonesia"
     },
     code: ["JavaScript", "PHP", "TypeScript"],
